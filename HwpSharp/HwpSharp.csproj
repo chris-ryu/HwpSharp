@@ -9,10 +9,10 @@
 <PropertyGroup>
   <PackageId>HwpSharp</PackageId>
   <Version>1.0.0</Version>
-  <Authors>RYU, G.S.</Authors>
+  <Authors>Chris Ryu</Authors>
   <Description>hwp library for .net</Description>
   <PackageLicenseExpression>MIT</PackageLicenseExpression>
-  <PackageProjectUrl>https://github.com/yourusername/yourrepository</PackageProjectUrl>
+  <PackageProjectUrl>https://github.com/chris-ryu/HwpSharp</PackageProjectUrl>
   <PackageTags>.net c# hwp</PackageTags>
 </PropertyGroup>
   <ItemGroup>
