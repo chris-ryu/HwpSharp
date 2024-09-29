@@ -2,6 +2,10 @@
 
 HwpSharp is a .NET library for parsing and manipulating HWP (Hangul Word Processor) files.
 
+## Attribution
+
+This library is largely based on the work from https://github.com/forcom/HwpSharp. We acknowledge and are grateful for their contribution to the open-source community.
+
 ## Features
 
 - Parse HWP 5.0 file format
@@ -57,3 +61,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+We would like to express our gratitude to the original authors and contributors of the [forcom/HwpSharp](https://github.com/forcom/HwpSharp) project, which served as the foundation for this library.
